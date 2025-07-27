@@ -1,0 +1,30 @@
+# Verilog simulation files (e.g. ModelSim, VCS, etc.)
+*.vcd
+*.vvp
+*.out
+*.log
+*.sav
+*.wlf
+*.asdb
+*.key
+*.bak
+*.orig
+*.ucdb
+*.ini
+*.jou
+*.pb
+*.sim
+*.f
+*.fst
+
+# Work directories
+work/
+xsim.dir/
+simv*
+csrc/
+INCA_libs/
+.vscode/
+
+# Common backup files
+*~
+*.swp
